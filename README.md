@@ -10,7 +10,7 @@ Run composer install to update the dependancies with your environment
 Digital ocean requires an access token to access any account. The DigitalOcean class expects the environment variable DO_TOKEN to use for authentication. Export the token to the environment
 
 ```
-export DO_TOKEN=2db0b274a786dc98d67c78a01060e00f28397e9f86fefcac77dc54e97d80ca31
+export DO_TOKEN=get_access_token_from_digital_ocean_dashboard
 
 ```
 
